@@ -9,7 +9,6 @@ GPIO.setmode(GPIO.BOARD)
 GPIO.setup(5, GPIO.IN)
 GPIO.setup(3, GPIO.OUT)
 
-
 ok = True
 
 try:
